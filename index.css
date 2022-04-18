@@ -1,0 +1,22 @@
+h2 {
+    text-align: center;
+    font-size: 16pt;
+    padding-top: 10pt;
+}
+
+.hope {
+    height: 300px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+aside {
+    background: #AAAE7F;
+    padding: 25px;
+    border: #08090A solid;
+    display: block;
+    margin: 0 auto;
+    color: #EFEFEF;
+}

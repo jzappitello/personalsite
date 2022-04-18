@@ -1,0 +1,55 @@
+.top {
+    font-weight: bold;
+    font-size: 20pt;
+}
+
+.disclaimer {
+    font-size: 10px;
+    margin-top: -2.5em;
+}
+
+.meat {
+    padding-bottom: 10px;
+    border-bottom: 2px solid #EFEFEF;
+}
+
+.one {
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    display: block;
+    overflow: auto;
+}
+
+.one>img {
+    float: left;
+    margin: 0 20pt 20pt 0;
+    padding: 10px;
+}
+
+.two {
+    background: #AAAE7F;
+    padding: 12.5px 25px;
+    border: #08090A solid;
+    display: block;
+    color: #EFEFEF;
+    overflow: auto;
+}
+
+.two>img {
+    float: right;
+    margin: 0 0 20pt 20pt;
+    padding: 10px;
+}
+
+.three {
+    padding: 12.5px 25px;
+    display: block;
+    overflow: auto;
+}
+
+.three>img {
+    float: left;
+    margin: 0 20pt 20pt 0;
+    padding: 10px;
+}

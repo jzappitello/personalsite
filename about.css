@@ -1,0 +1,33 @@
+p {
+    padding-bottom: 10px;
+}
+
+h1 {
+    padding-top: 10pt;
+}
+
+img {
+    height: 250px;
+}
+
+section {
+    border-top: 2px solid #EFEFEF;
+}
+
+.food>img {
+    float: left;
+    margin: 0 20pt 20pt 0;
+    padding: 10px;
+}
+
+.sing>img {
+    float: right;
+    margin: 0 0 20pt 20pt;
+    padding: 10px;
+}
+
+.game>img {
+    float: left;
+    margin: 0 20pt 20pt 0;
+    padding: 10px;
+}
